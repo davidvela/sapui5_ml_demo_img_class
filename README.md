@@ -13,3 +13,4 @@ Make sure that when running the application, the URL is the index.html and not t
   "APIKey":"<<<<< COPY YOUR API KEY >>>>>"
   "APIKey":"daskl;;asdl;"
   
+  fix security vulnerability 
